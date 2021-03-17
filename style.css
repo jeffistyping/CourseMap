@@ -1,0 +1,31 @@
+#mynetwork {
+    height: 70vh;
+    width: 70vw;
+    border: 1px solid lightgray;
+    align-content: center;
+}
+
+#logo {
+    height: 7vh;
+    display: block;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#coursename {
+    max-width: 400px;
+}
+
+.badges {
+    cursor: pointer;
+}
