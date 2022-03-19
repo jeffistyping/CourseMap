@@ -1,6 +1,6 @@
 ![Course Map UI](coursemap.png)
 
-### Demo: [CourseMap](https://coursemap.xyz)
+### Demo: [CourseMap](https://coursemap.netlify.app/)
 
 # Course Map
 It's time to declare what courses you want to take. You head over to your school's website to click around to the course catalog and see you want to take. *GEO 881: The Hidden Geometry of Waterpolo*. Wow. Dream course. Looks like there's some prerequisite courses but they're all linked in the course description. You check them out.
